@@ -1,0 +1,32 @@
+{
+  "name": "mobile-rc-controller",
+  "version": "0.1.0",
+  "description": "Mobile app controller for Max RC cars",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwlDigitalDesign/mobile-rc-controller.git"
+  },
+  "keywords": [
+    "mobile",
+    "app",
+    "sockets",
+    "gyroscope",
+    "rc",
+    "car",
+    "controller"
+  ],
+  "author": "Owl Digital Design",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OwlDigitalDesign/mobile-rc-controller/issues"
+  },
+  "homepage": "https://github.com/OwlDigitalDesign/mobile-rc-controller#readme",
+  "dependencies": {
+    "cordova": "^8.1.2",
+    "sass": "^1.17.2"
+  }
+}
